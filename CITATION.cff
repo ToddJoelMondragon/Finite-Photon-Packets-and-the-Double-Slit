@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Finite Photon Packets, Overlap Criterion, and the Bell Threshold"
+version: "1.0.0"
+date-released: "2025-08-23"
+authors:
+  - family-names: Mondragon
+    given-names: Todd Joel
+    orcid: "https://orcid.org/0009-0004-7868-3021"   
+repository-code: "https://https://github.com/ToddJoelMondragon/Finite_Photon_Packets-Overlap_Criterion_and_the_Bell_Threshold"     
+license: "CC-BY-4.0"                                 
+
+preferred-citation:
+  type: article
+  title: "Finite Photon Packets, Overlap Criterion, and the Bell Threshold"
+  authors:
+    - family-names: Mondragon
+      given-names: Todd Joel
+      orcid: "https://orcid.org/0009-0004-7868-3021"
+  journal: "Zenodo (Preprint)"
+  year: 2025
+  month: 8
+  version: "1.0.0"
+  doi: "10.5281/zenodo.16932739"
+  url: "https://doi.org/10.5281/zenodo.16932739"

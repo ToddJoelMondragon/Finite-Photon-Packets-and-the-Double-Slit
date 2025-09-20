@@ -6,7 +6,7 @@ For correspondence regarding this work:
 (For research correspondence — please use responsibly.)
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17166728.svg)](https://doi.org/10.5281/zenodo.17166728)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17167231/.svg)](https://doi.org/10.5281/zenodo.17167231)  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7868--3021-A6CE39.svg)](https://orcid.org/0009-0004-7868-3021)  
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -72,8 +72,8 @@ Mondragon-2025-Finite-Photon-Packets-Double-Slit.pdf  # Camera-ready manuscript 
   month    = {8},
   version  = {1.0.0},
   orcid    = {https://orcid.org/0009-0004-7868-3021},
-  doi      = {10.5281/zenodo.17166728},
-  url      = {https://doi.org/10.5281/zenodo.17166728}
+  doi      = {10.5281/zenodo.17167231},
+  url      = {https://doi.org/10.5281/zenodo.17167231}
 }
 </code></pre>
 
@@ -82,7 +82,7 @@ Mondragon-2025-Finite-Photon-Packets-Double-Slit.pdf  # Camera-ready manuscript 
 <h2 id="links">Links</h2>
 <ul>
   <li><strong>arXiv:</strong> <a href="https://arxiv.org/abs/ARXIV_ID">https://arxiv.org/abs/ARXIV_ID</a></li>
-  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.17166728">https://doi.org/10.5281/zenodo.17166728</a></li>
+  <li><strong>DOI (Zenodo):</strong> <a href="https://doi.org/10.5281/zenodo.17167231">https://doi.org/10.5281/zenodo.17167231</a></li>
   <li><strong>ORCID:</strong> <a href="https://orcid.org/0009-0004-7868-3021">https://orcid.org/0009-0004-7868-3021</a></li>
   <li><strong>Repository:</strong> <a href="https://github.com/ToddJoelMondragon/Finite-Photon-Packets-and-the-Double-Slit">https://github.com/ToddJoelMondragon/Finite-Photon-Packets-and-the-Double-Slit</a></li>
 </ul>

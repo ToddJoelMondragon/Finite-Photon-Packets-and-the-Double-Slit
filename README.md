@@ -43,22 +43,6 @@ Mondragon-2025-Finite-Photon-Packets-Double-Slit.pdf  # Camera-ready manuscript 
 
 <hr>
 
-<h2 id="bench-tests">Falsifiable bench tests</h2>
-<ul>
-  <li><strong>Bell vs. packet length:</strong> Fix geometry and analyzers; swap sources to vary &ell;:
-    (i) unseeded Q-switched (short &ell;), (ii) injection-seeded (longer &ell;),
-    (iii) single-frequency CW (very long &ell;).
-    Evaluate with <strong>CH/CH&ndash;Eberhard</strong>, include no-clicks, forbid post-selection.
-    <em>Prediction:</em> violations only for L &lesssim; &ell;.</li>
-  <li><strong>HOM ruler:</strong> Two identical packets on 50/50 BS.
-    Dip/visibility vs delay follows V(&Delta;L).</li>
-  <li><strong>Gate-depth cliff:</strong> Mach&ndash;Zehnder with Pockels phase gate;
-    fidelity collapses when &Sigma;&Delta;T &approx; &tau;<sub>emit</sub>; shifts with &ell;.</li>
-</ul>
-
-<p><em>Safeguards:</em> pre-register trials; publish full time tags; fixed coincidence windows; spacelike-separated RNGs/settings.</p>
-
-<hr>
 
 <h2 id="cite">Cite</h2>
 <p>See <a href="./CITATION.cff">CITATION.cff</a> for auto-generated BibTeX via GitHub&rsquo;s &ldquo;Cite this repository&rdquo; button.</p>
